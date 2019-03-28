@@ -1,0 +1,6 @@
+npm install cloudinary-react --save
+npm install axios --save
+npm install superagent --save
+npm install react-dropzone --save
+
+Dropzone: { accept="image/*" } will accept all image/file types (typically not a good idea--you should specify by jpg, png, etc.)
