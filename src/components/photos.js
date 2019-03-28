@@ -62,7 +62,6 @@ export default class Photos extends Component {
               <img src={this.state.uploadedFileCloudinaryUrl} />
             </div>}
           </div>
-          {console.log(process.env.CLOUDINARY_UPLOAD_URL)}
         </form>
       </div>
     );
